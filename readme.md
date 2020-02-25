@@ -1,5 +1,5 @@
 # Cyberton Telegram Bot
-<img src="https://techcrunch.com/wp-content/uploads/2020/01/MarsCat-6.jpg?w=730&crop=1" height="360px" width="340px">
+<img src="https://techcrunch.com/wp-content/uploads/2020/01/MarsCat-6.jpg?w=730&crop=1" height="360px" width="540px">
 
 ## Cara Jalanin Botnya 
 - Install NodeJs dan NPM , bisa dicek di google
